@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -93,8 +93,6 @@ export default function LandingPage() {
             }
           ]}
           className="w-full"
-          titleClassName="text-3xl md:text-4xl font-bold"
-          descriptionClassName="text-base md:text-lg"
         />
       </div>
 
@@ -126,8 +124,6 @@ export default function LandingPage() {
             }
           ]}
           className="w-full"
-          titleClassName="text-3xl md:text-4xl font-bold"
-          descriptionClassName="text-base md:text-lg"
         />
       </div>
 
@@ -174,8 +170,6 @@ export default function LandingPage() {
             }
           ]}
           className="w-full"
-          titleClassName="text-3xl md:text-4xl font-bold"
-          descriptionClassName="text-base md:text-lg"
         />
       </div>
 
@@ -220,8 +214,6 @@ export default function LandingPage() {
             }
           ]}
           className="w-full"
-          titleClassName="text-3xl md:text-4xl font-bold"
-          descriptionClassName="text-base md:text-lg"
         />
       </div>
 
@@ -235,8 +227,6 @@ export default function LandingPage() {
           buttonText="Subscribe"
           termsText="We respect your inbox. Unsubscribe anytime. No spam, just great coffee news."
           className="w-full"
-          titleClassName="text-3xl md:text-4xl font-bold"
-          descriptionClassName="text-base md:text-lg"
         />
       </div>
 
